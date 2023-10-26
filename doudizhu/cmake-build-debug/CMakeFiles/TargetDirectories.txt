@@ -1,0 +1,3 @@
+D:/doudizhu/cmake-build-debug/CMakeFiles/doudizhu.dir
+D:/doudizhu/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/doudizhu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
